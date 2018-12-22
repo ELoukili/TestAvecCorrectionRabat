@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Exemple1.deps.json
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Exemple1.runtimeconfig.json
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Exemple1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Exemple1.dll
+C:\Users\HP\source\repos\Exemple1\Exemple1\bin\Debug\netcoreapp2.1\Exemple1.pdb
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.dll
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.pdb
+C:\Users\HP\source\repos\Exemple1\Exemple1\obj\Debug\netcoreapp2.1\Exemple1.csprojAssemblyReference.cache
